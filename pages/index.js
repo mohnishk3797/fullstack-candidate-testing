@@ -134,8 +134,13 @@ export default function Home({ jobs, filters,  }) {
 }
 
 export async function getStaticProps() {
- const res =  await axios.get('http://localhost:3000/api/jobs')
- const filterResponse =  await axios.get('http://localhost:3000/api/filters')
+  
+  
+  const {PROTOCOL} = process.env
+  const {HOST} = process.env
+
+ const res =  await axios.get(`${PROTOCOL}://${HOST}/api/jobs`)
+ const filterResponse =  await axios.get(`${PROTOCOL}://${HOST}/api/filters`)
    
    return {
     props: {
