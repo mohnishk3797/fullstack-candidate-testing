@@ -1,5 +1,14 @@
 # fullstack-candidate-testing
 
+# How to run
+- clone the repo
+- checkout to `mubarak-ruganda-2020-11-24`
+- run `npm install`
+-  run `npm run dev` to run the development server
+
+# Deployed Link
+  https://fde3471df7e6.ngrok.io/
+
 ## Instructions
 
 
