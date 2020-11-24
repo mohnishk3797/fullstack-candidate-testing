@@ -1,0 +1,37 @@
+.jobsContainer {
+  /* max-width: 36rem; */
+  padding: 0 0.2rem;
+  margin: 3rem auto 6rem;
+}
+
+.topFilter {
+  display: flex;
+  
+  align-items: center;
+}
+.filterItems{
+  display: flex;
+  list-style-type: none;
+}
+.li{
+  padding: 0 0.3rem;
+  font-size: small;
+  cursor: pointer;
+}
+
+.initials {
+  display:flex;
+  width: 32px;
+  height: 32px;
+  background-color: #bdbdbd;
+  border-radius: 5px;
+  margin-right: 1em;
+  text-transform:capitalize;
+  color: #ffffff;
+  text-align: center;
+  padding:3px;
+  font-weight: bolder;
+  justify-content: center;
+  align-items: center;
+}
+
