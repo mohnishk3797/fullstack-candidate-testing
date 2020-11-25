@@ -8,7 +8,7 @@
 
 # Deployment
 - You can checkout the application in action at the link below
-  https://health-explorer-ef0lke1ck.vercel.app/
+- https://health-explorer-ef0lke1ck.vercel.app/
 
 ## Instructions
 
