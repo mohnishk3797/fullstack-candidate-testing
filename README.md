@@ -6,8 +6,9 @@
 - run `npm install`
 -  run `npm run dev` to run the development server
 
-# Deployed Link
-  https://fde3471df7e6.ngrok.io/
+# Deployment
+- You can checkout the application in action at the link below
+  https://health-explorer-ef0lke1ck.vercel.app/
 
 ## Instructions
 
