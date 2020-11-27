@@ -48,3 +48,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Demo public URL
 Open [https://entrust-biswajit-jena-2020-11-27.vercel.app/] You can see the output with your browser.
+
+## Demo Screenshots
+![Screenshot](health-explore-screen-1.png)
+![Screenshot](health-explore-screen-2.png)
+![Screenshot](health-explore-screen-3.png)
+
