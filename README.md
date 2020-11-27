@@ -50,7 +50,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Open [https://entrust-biswajit-jena-2020-11-27.vercel.app/] You can see the output with your browser.
 
 ## Demo Screenshots
+- Detailed List
 ![Screenshot](health-explore-screen-1.png)
+
+- Expanded Veiw
 ![Screenshot](health-explore-screen-2.png)
+
+- Mobile Responsive View
 ![Screenshot](health-explore-screen-3.png)
 
