@@ -35,8 +35,8 @@ module.exports = async _ => {
     app.use(ctx => ctx.bad(404, 'Not found'));
   }
 
-  const port = process.env.PORT ?? 3000;
-  const host = process.env.HOST ?? '0.0.0.0';
+  const port = process.env.PORT || 3000;
+  const host = process.env.HOST || '0.0.0.0';
 
   return app.listen(port, host, () => {
     log.info(`Server started ${host}:${port}`);

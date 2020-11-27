@@ -1,7 +1,7 @@
 # Clipboard Health Assignment
 
 ## Demo
-https://hcb-test-task.herokuapp.com/jobs 
+https://hcb-fullstack-test.herokuapp.com/jobs 
 
 ## Running locally
 - `git clone`
