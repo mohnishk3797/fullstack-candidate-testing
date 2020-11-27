@@ -16,20 +16,20 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Following activities has been taken care 
 
--- Responsive UI/UX updated
--- Created Restful API ( jobs.json & filter.json)
--- Displayed API response on pageview
--- Added filter 
--- Added sorting based on sort type with ASC and DSC
--- Added react bootstrap
+- Responsive UI/UX updated
+- Created Restful API ( jobs.json & filter.json)
+- Displayed API response on pageview
+- Added filter 
+- Added sorting based on sort type with ASC and DSC
+- Added react bootstrap
 
 ## Technical Stacks
--- NextJS
--- React bootstrap
--- Loadash
--- Moment
--- React Avtar
--- Github with Vercel
+- NextJS
+- React bootstrap
+- Loadash
+- Moment
+- React Avtar
+- Github with Vercel
 
 ## Learn More
 
