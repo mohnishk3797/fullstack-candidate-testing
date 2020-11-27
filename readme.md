@@ -3,7 +3,6 @@
 ## Demo
 https://hcb-test-task.herokuapp.com/jobs 
 
-
 ## Running locally
 - `git clone`
 - `npm i`
