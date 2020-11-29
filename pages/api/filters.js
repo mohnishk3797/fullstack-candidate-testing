@@ -1,5 +1,5 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
-import filters from '../../data/filters';
+import filters from './mocks/filters';
 
 export default async (req, res) => {
   res.statusCode = 200;

@@ -5,11 +5,19 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "postbuild": "next-on-netlify",
+    "start": "next start",
+    "test": "next test"
   },
   "dependencies": {
     "next": "10.0.3",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.9.6",
+    "axios": "0.21.0"
+  },
+  "devDependencies": {
+    "jest": "26.6.3"
   }
 }
