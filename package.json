@@ -10,6 +10,7 @@
     "test": "next test"
   },
   "dependencies": {
+    "next-on-netlify":"2.6.3",
     "next": "10.0.3",
     "react": "17.0.1",
     "react-dom": "17.0.1",
