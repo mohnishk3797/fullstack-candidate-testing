@@ -3,7 +3,6 @@ import JobService from './Services/JobService'
 export default async (req, res) => {
   res.statusCode = 200;
   const { job_type, work_schedule, experience, department, keyword } = req.query
-
   const jobService = new JobService()
   let jobs = jobService.findByFilter({ job_type, work_schedule, experience }, { department }, { keyword })
 
