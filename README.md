@@ -1,5 +1,36 @@
-# fullstack-candidate-testing
+# Health Explorer
 
+# Demo
+[https://clipboard-health-project.vercel.app/](https://clipboard-health-project.vercel.app/)
+
+## Getting Started
+**Pre requirements**
+- node
+- npm
+
+1. Clone this repo
+2. run `npm i`
+3. To run Project locally `npm run dev`
+4. Server is running at: [http://localhost:3000](http://localhost:3000)
+5. To run test cases `npm run test`
+
+
+## Tech Stack
+- Next.js
+- Tailwind
+- Deployed on Vercel
+
+## Features 
+- Text Search on job, title, keywords and company
+- Filters on Job Type, Work Schedule, Experience and Department
+- Sorting on Title, Type, Created and Job Shift
+- Supports combination filters of text, filter and sorting
+- Supports Test Cases
+- Supports unstable network connection by aborting previous network calls
+
+
+
+ 
 ## Instructions
 
 
@@ -36,3 +67,7 @@
 The screenshot files are for reference only. The React app you are required to build has to look like these screenshots, but we don't expect your views to be an exact clone of every single one of them. All the components in the screenshot were built in plain .jsx with Tailwind CSS, with almost no custom CSS and no additional design assets (images, svg, logos).
 
 Good luck!
+
+
+
+
